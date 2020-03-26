@@ -1,15 +1,14 @@
 /*****************************************************************************
 
-   SBC No： NA
-     Name： m_sigdigit.sas
-    Title： Convert to significant digits (Standard macro)
-  Product： SAS Ver 9.2, 9.3, 9.4
-   Author： Kunie Fukimbara
-     Date： 2017/08/23
-  In Data： NA
-   Output： NA
-     Misc： NONE
-     Note： 
+     Nameﾂ： m_sigdigit.sas
+    Titleﾂ： Convert to significant digits (Standard macro)
+  Productﾂ： SAS Ver 9.2, 9.3, 9.4
+   Authorﾂ： Kunie Fukimbara
+     Dateﾂ： 2017/08/23
+  In Dataﾂ： NA
+   Outputﾂ： NA
+     Miscﾂ： NONE
+     Noteﾂ： 
 
 *****************************************************************************/
 
