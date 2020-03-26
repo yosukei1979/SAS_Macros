@@ -10,3 +10,4 @@ SAS Macro library
 Output：出力データセット名を記載（マクロが作成する。ライブラリ指定可能）  
 Var=：変換する変数名を記載。$区切りで複数指定可能。  
 Clen：出力する文字変数のLengthを数値で指定。省力すると5000が割り当てられる。|
+|Surv_prob|生存解析ProcedureのODS Table "SurvivalPlot"を参照して、X時点での推定した生存関数の値S(x)を返す。|
