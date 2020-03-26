@@ -4,7 +4,7 @@ SAS Macro library
 
 # Brief Description
 
-|名前|概要|
+|Name|Overview|
 |:---|:---|
 |num2char|Convert a numeric variable to a character variable without changing the name. Multiple variables can be converted at the same time.|
 |char2num|Convert a character variable to a numeric variable without changing the name. Multiple variables can be converted at the same time.|
