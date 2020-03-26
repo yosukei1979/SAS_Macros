@@ -3,10 +3,13 @@
 # SAS_Macros
 SAS Macro library
 
+# how to use
+After Clone in an appropriate directory, write the following option at the beginning of SAS code
+```OPTIONS MAUTOSOURCE SASAUTOS=(SASAUTOS fileref);```
 
 # Brief Description
 
-|Name|Outline|
+|Name|Description|
 |:---|:---|
 |num2char|Convert a numeric variable to a character variable without changing the name. Multiple variables can be converted at the same time.|
 |char2num|Convert a character variable to a numeric variable without changing the name. Multiple variables can be converted at the same time.|
@@ -14,9 +17,13 @@ SAS Macro library
 |Surv_prob|Returns the value S(x) of the estimated survival function at point X with reference to the ODS Table "SurvivalPlot" in the Survival Analysis Procedure.|
 
 
+# 使い方
+適当なフォルダにClone後、SASコード冒頭に以下optionを書く
+```OPTIONS MAUTOSOURCE SASAUTOS=(SASAUTOS fileref);```
+
 # 簡単な説明
 
-|名前|概要|
+|名前|説明|
 |:---|:---|
 |num2char|数値変数を、変数名を変えずに文字変数に変換する。複数の変数を同時に変換可能。|
 |char2num|文字変数を、変数名を変えずに数値変数に変換する。複数の変数を同時に変換可能。|
