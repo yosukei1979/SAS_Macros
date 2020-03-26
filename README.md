@@ -6,7 +6,7 @@ SAS Macro library
 # how to use
 After Clone in an appropriate directory, write the following option at the beginning of SAS code
 
-```OPTIONS MAUTOSOURCE SASAUTOS=(SASAUTOS fileref);```
+```OPTIONS MAUTOSOURCE SASAUTOS=(SASAUTOS "the path to the directory");```
 
 # Brief Description
 
@@ -21,7 +21,7 @@ After Clone in an appropriate directory, write the following option at the begin
 # 使い方
 適当なフォルダにClone後、SASコード冒頭に以下optionを書く
 
-```OPTIONS MAUTOSOURCE SASAUTOS=(SASAUTOS fileref);```
+```OPTIONS MAUTOSOURCE SASAUTOS=(SASAUTOS "the path to the directory");```
 
 # 簡単な説明
 
